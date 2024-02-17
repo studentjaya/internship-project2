@@ -1,2 +1,1 @@
-# internship-project2
-intern secondproject
+Simple to dolist app
